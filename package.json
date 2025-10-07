@@ -2,6 +2,7 @@
   "name": "future-millionaires-app",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://caeles-true.github.io/future-millionaires-app",
   "scripts": {
     "dev": "next dev --turbopack",
     "build": "next build --turbopack",
